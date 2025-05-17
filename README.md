@@ -1,4 +1,4 @@
-# Zalo Chat Module for Joomla
+# Module Tin Tức for Joomla
 
 ## Giới thiệu
 **Module Tin Tức for Joomla** là một module mạnh mẽ giúp người dùng tạo một danh sách nhỏ các tin tức từ một trang khác vào trang web Joomla của mình. Module này cho phép bạn:
