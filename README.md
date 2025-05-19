@@ -27,6 +27,7 @@
    - **URL RSS**: Nhập đường dẫn URL dạng .rss của trang web muốn hiện thị trên module.
    - **Số tin hiển thị**: Chọn số tin hiển thị module trên trang web.
    - **Hiệu ứng**: Chọn hiệu ứng cho module như "Fade", "Slide", "Marquee".
+   - **Tag Menu Assignment**: ở Module Assignment chọn On all pages
 4. Lưu lại cấu hình và kiểm tra giao diện người dùng trên trang chính.
 
 ## Đóng góp
